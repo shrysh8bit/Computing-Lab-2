@@ -1,0 +1,26 @@
+18. 1.2011	    appliances environment water_heater electrolux	154.419998
+ 9. 4.2013	                      appliances kitchen washer lg	308.649994
+10. 7.2013	                              computers desktop sv	195.350006
+21. 8.2013	              appliances environment vacuum xiaomi	435.779999
+15. 6.2014	        appliances kitchen washer hotpoint-ariston	307.579987
+ 9. 8.2014	             appliances personal massager gezatone	39.900002
+ 1. 5.2015	             appliances personal massager gezatone	39.900002
+28. 4.2016	         appliances kitchen coffee_machine redmond	195.600006
+27. 5.2016	                       auto accessories player ams	221.369995
+28. 9.2016	                           computers desktop remix	75.970001
+23.11.2016	                   appliances kitchen microwave lg	85.830002
+ 4.12.2016	                             accessories bag karya	100.389999
+28. 3.2017	                   appliances kitchen microwave lg	95.010002
+27. 8.2017	                    appliances kitchen grill vitek	77.139999
+ 7. 9.2017	                              apparel shoes rieker	99.099998
+ 3. 3.2019	           appliances environment air_heater oasis	28.030001
+10. 5.2019	                      electronics smartphone apple	588.770020
+ 4. 7.2019	           appliances kitchen refrigerators atlant	283.119995
+26.11.2019	                             computers notebook hp	580.890015
+ 9. 3.2020	      appliances environment air_heater electrolux	84.690002
+ 4. 6.2020	                     electronics smartphone huawei	566.010010
+13. 6.2020	                    electronics smartphone samsung	900.640015
+19. 8.2020	              appliances kitchen microwave gorenje	295.989990
+18.12.2020	                computers peripherals monitor acer	514.789978
+21. 7.2021	       appliances environment water_heater ariston	638.280029
+29. 9.2021	             computers components videocards palit	157.960007

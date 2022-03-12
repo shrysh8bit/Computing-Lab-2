@@ -1,0 +1,60 @@
+ 3. 6.2010	          appliances environment water_heater aqua	33.200001
+18. 1.2011	    appliances environment water_heater electrolux	154.419998
+12. 5.2011	                        apparel shoes keds respect	66.669998
+18. 8.2011	            appliances environment vacuum dauscher	33.209999
+11.12.2011	                    appliances kitchen mixer bosch	58.950001
+ 3. 6.2012	                         furniture bedroom bed brw	93.180000
+ 4. 6.2012	         appliances environment water_heater haier	102.379997
+ 6. 7.2012	                        apparel shoes burgerschuhe	102.449997
+16. 8.2012	       appliances environment water_heater ariston	122.180000
+ 9. 4.2013	                      appliances kitchen washer lg	308.649994
+22. 5.2013	                          computers desktop pulser	921.489990
+10. 7.2013	                              computers desktop sv	195.350006
+21. 8.2013	              appliances environment vacuum xiaomi	435.779999
+ 8.10.2013	        appliances kitchen washer hotpoint-ariston	275.369995
+15. 6.2014	        appliances kitchen washer hotpoint-ariston	307.579987
+30. 7.2014	                          computers desktop pulser	908.619995
+ 9. 8.2014	             appliances personal massager gezatone	39.900002
+10. 8.2014	           appliances environment air_heater midea	47.619999
+20. 8.2014	                     electronics smartphone xiaomi	197.550003
+28.10.2014	                    electronics smartphone samsung	254.820007
+18.12.2014	                 appliances kitchen washer samsung	463.149994
+25. 3.2015	             appliances kitchen microwave elenberg	51.459999
+ 1. 5.2015	             appliances personal massager gezatone	39.900002
+28. 9.2015	                      electronics smartphone apple	1081.979980
+26.10.2015	                        electronics video tv haier	193.029999
+17. 4.2016	                             apparel shoes respect	51.220001
+28. 4.2016	         appliances kitchen coffee_machine redmond	195.600006
+27. 5.2016	                       auto accessories player ams	221.369995
+ 5. 8.2016	                      electronics smartphone apple	1747.790039
+12. 8.2016	            appliances environment vacuum elenberg	33.439999
+28. 9.2016	                           computers desktop remix	75.970001
+23.11.2016	                   appliances kitchen microwave lg	85.830002
+ 4.12.2016	                             accessories bag karya	100.389999
+28. 3.2017	                   appliances kitchen microwave lg	95.010002
+30. 6.2017	         appliances environment water_heater haier	102.379997
+27. 8.2017	                    appliances kitchen grill vitek	77.139999
+ 7. 9.2017	                              apparel shoes rieker	99.099998
+15.11.2017	                      electronics smartphone apple	588.770020
+ 1. 3.2018	                         computers notebook lenovo	251.740005
+ 7.10.2018	                          apparel shoes keds baden	102.709999
+15. 1.2019	                          apparel shoes keds baden	102.709999
+ 3. 3.2019	           appliances environment air_heater oasis	28.030001
+12. 3.2019	                   electronics audio headphone jbl	33.209999
+10. 5.2019	                      electronics smartphone apple	588.770020
+10. 5.2019	                      electronics smartphone apple	588.770020
+ 4. 7.2019	           appliances kitchen refrigerators atlant	283.119995
+ 4. 7.2019	           appliances kitchen refrigerators atlant	283.119995
+26.11.2019	                             computers notebook hp	580.890015
+26.11.2019	                             computers notebook hp	580.890015
+ 9. 3.2020	      appliances environment air_heater electrolux	84.690002
+ 4. 6.2020	                     electronics smartphone huawei	566.010010
+ 4. 6.2020	                     electronics smartphone huawei	566.010010
+13. 6.2020	                    electronics smartphone samsung	900.640015
+13. 6.2020	                    electronics smartphone samsung	900.640015
+19. 8.2020	              appliances kitchen microwave gorenje	295.989990
+19. 8.2020	              appliances kitchen microwave gorenje	295.989990
+18.12.2020	                computers peripherals monitor acer	514.789978
+18.12.2020	                computers peripherals monitor acer	514.789978
+21. 7.2021	       appliances environment water_heater ariston	638.280029
+29. 9.2021	             computers components videocards palit	157.960007
